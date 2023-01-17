@@ -19,14 +19,18 @@
   <br/>
   <br/>
   📧Email📧
-  
+  <br/>
+  <br/>
   <img src="https://img.shields.io/badge/champiuned12@gmail.com-EF2D5A?style=flat-square&logo=Google&logoColor=white">
+  
   <br/>
   <br/>
 
   ☁️SNS list☁️
-  
+  <br/>
+  <br/>  
   <a href="https://blackz3r0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  
   <br/>
 
   ---
