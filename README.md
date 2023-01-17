@@ -18,33 +18,28 @@
 
   <br/>
   <br/>
-  <!--
   📧Email📧
   
-  <img src="https://img.shields.io/badge/chlgksdbs98@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">
+  <img src="https://img.shields.io/badge/champiuned12@gmail.com-EF2D5A?style=flat-square&logo=Google&logoColor=white">
   <br/>
   <br/>
-  
+
   ☁️SNS list☁️
   
-  <a href="https://velog.io/@chlgksdbs98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100013209942817" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/chlgksdbs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://blackz3r0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <br/>
 
   ---
   :100: Joon
   <br/>
   
-  
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fgan75)](https://solved.ac/fgan75)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=champiuned12)](https://solved.ac/champiuned12)
+
 </div>
-  --!>
+  
 
 <!--
-**chlgksdbs/chlgksdbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
